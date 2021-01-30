@@ -33,7 +33,7 @@
     "https-proxy-agent": "0.3.6",
     "iconv-lite": "0.4.15",
     "jschardet": "^1.4.2",
-    "minimist": "1.2.0",
+    "minimist": "1.2.3",
     "native-keymap": "1.2.4",
     "node-pty": "0.6.6",
     "semver": "4.3.6",
